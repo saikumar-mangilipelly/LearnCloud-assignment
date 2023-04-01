@@ -1,0 +1,13 @@
+.ischeck{
+    text-decoration: line-through;
+}
+.todolist{
+    margin-left: 3.5rem;
+    padding: 2.5rem;    
+}
+@media screen and (max-width:575px) {
+    .todolist{
+        margin-left:1rem;
+        padding: 2.5rem;
+    }
+}
